@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="left">Hi 👋</h1>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Leoj030&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Leoj030&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -7,16 +7,11 @@
 
 ###
 
-<div align="center">
-</div>
-
-###
+<br clear="both">
 
 <h3 align="left">Tech Stack</h3>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
