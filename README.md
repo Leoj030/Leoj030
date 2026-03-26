@@ -13,7 +13,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
@@ -26,9 +26,15 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="50" alt="jest logo"  />
+  <img src="https://skillicons.dev/icons?i=jest" height="50" alt="jest logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=lua" height="50" alt="lua logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="50" alt="supabase logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
 </div>
 
 ###
