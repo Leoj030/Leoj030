@@ -9,32 +9,55 @@
 
 <br clear="both">
 
-<h3 align="left">Tech Stack</h3>
+<h2 align="left">TECH STACK</h2>
 
-###
+<h3>PROGRAMMING LANGUAGE</h3>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=jest" height="50" alt="jest logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=lua" height="50" alt="lua logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="50" alt="supabase logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
-</div>
+![Static Badge](https://img.shields.io/badge/javascript-FFD634?style=for-the-badge) <img width="1" /> 
+![Static Badge](https://img.shields.io/badge/typescript-215CD1?style=for-the-badge) <img width="1" /> 
+![Static Badge](https://img.shields.io/badge/lua-08489B?style=for-the-badge) <img width="1" /> 
+![Static Badge](https://img.shields.io/badge/luau-3B8CF5?style=for-the-badge) <img width="1" />
+![Static Badge](https://img.shields.io/badge/java-B07219?style=for-the-badge) <img width="1" />
+![Static Badge](https://img.shields.io/badge/c++-EC517F?style=for-the-badge) <img width="1" />
+![Static Badge](https://img.shields.io/badge/zig-1A1A1A?style=for-the-badge)
 
-###
+---
+
+<h3>RUNTIME</h3>
+
+<h3>Js/Ts</h3>
+
+![Static Badge](https://img.shields.io/badge/node-129121?style=for-the-badge) <img width="1" /> 
+![Static Badge](https://img.shields.io/badge/bun-FFFCF0?style=for-the-badge)
+
+<h3>Luau</h3>
+
+![Static Badge](https://img.shields.io/badge/lune-D91BD3?style=for-the-badge) <img width="1" /> 
+![Static Badge](https://img.shields.io/badge/zune-1A1A1A?style=for-the-badge) <img width="1" /> 
+![Static Badge](https://img.shields.io/badge/lute-2B61E3?style=for-the-badge)
+
+---
+
+<h3>FRONTEND</h3>
+
+![Static Badge](https://img.shields.io/badge/react-3BAEF5?style=for-the-badge) <img width="1" /> 
+![Static Badge](https://img.shields.io/badge/next-EBEBEB?style=for-the-badge) <img width="1" /> 
+![Static Badge](https://img.shields.io/badge/tailwind-16CCC1?style=for-the-badge) 
+
+---
+
+<h3>BACKEND</h3>
+
+![Static Badge](https://img.shields.io/badge/express-EBEBEB?style=for-the-badge) <img width="1" />
+![Static Badge](https://img.shields.io/badge/nest-ED2471?style=for-the-badge) <img width="1" />
+![Static Badge](https://img.shields.io/badge/nova-AC2BF7?style=for-the-badge)
+
+---
+
+<h3>MISC</h3>
+
+![Static Badge](https://img.shields.io/badge/jest-F56C6C?style=for-the-badge) <img width="1" />
+![Static Badge](https://img.shields.io/badge/mongodb-15611B?style=for-the-badge) <img width="1" />
+![Static Badge](https://img.shields.io/badge/supabase-18DB9A?style=for-the-badge)
+
+---
